@@ -249,6 +249,7 @@
 	| J_FALSE
 	| J_NULL
 	| J_REGEX
+	| J_DEBUGGER
 	| <J_ARRAY_LITERAL>
 	| <J_OBJECT_LITERAL>
 	| "(" <J_EXPR> ")"
